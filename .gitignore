@@ -1,0 +1,7 @@
+.idea/
+venv/
+
+data_files/*.*
+!data_files/.gitkeep
+
+logs/*
